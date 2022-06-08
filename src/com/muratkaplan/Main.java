@@ -19,7 +19,7 @@ public class Main {
         }
 
          String m=parameter(arr);
-         System.out.println(m);
+         System.out.println("Tanımlı value yu içeren String deger"+gitm);
     }
 
     public static String parameter(String[] stringVariable) {
